@@ -1,5 +1,14 @@
-<<<<<<< HEAD
 File 4, hay problemas?
-=======
 Modificando archivo by Fer
->>>>>>> 4d4183154ec0a0b6c01ff789c6954a22415294f7
+
+
+Esto se elimina
+
+
+Esto no se elimina
+
+Esto se elimina
+
+Esto no se elimina
+
+Esto se elimina
